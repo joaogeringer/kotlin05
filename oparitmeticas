@@ -1,0 +1,15 @@
+fun main() {
+    //operaçoes aritmeticas
+    
+    //+, -, *, /, %
+    
+    var idade = 30
+    
+    idade = idade + 1
+    idade = idade - 5
+    idade = idade * 2
+    idade = idade / 2
+
+    println(idade)
+
+}
